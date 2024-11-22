@@ -1,0 +1,253 @@
+body
+{
+	margin-left: 5%;
+	width: 801px;
+	background-color: #f4f5f3;
+	font-family: georgia, Calibri, Verdana, Arial, SunSans-Regular, Sans-Serif;
+	padding:0px;
+	margin-left: 2%;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #454743; 
+}
+
+
+.icon_figure
+{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	width: 801px;
+}
+
+img
+{
+	border-width: 2;
+	border-color: Gray;
+	border-style: solid;
+	margin: 0px;
+}
+
+.title
+{
+	font-size: 1.2em;
+	font-weight:900;
+	text-transform:uppercase;
+	margin-bottom: 2px;
+	color: #3D373C;
+	width: 801px;
+}
+
+.section_heading
+{
+	font-size: 16pt;
+	font-weight:800;
+	text-transform:capitalize;
+	color: #3D373C;
+	width: 801px;
+	height: 40;
+	text-align: center;
+	vertical-align: middle;
+	background-color: AAAAAA;
+	padding: 0;
+	padding-top: 6;
+	letter-spacing: 1px;
+	margin-top: 30;
+	margin-bottom: 20;
+}
+
+.heading
+{
+	font: normal 12pt; 
+	letter-spacing: 1px; 
+	margin-bottom: 0px; 
+	color: #3D373C;
+	font-weight:600;
+	width:	801px;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 5px;
+}
+
+.table_spec
+{
+	width: 801px;
+	height: 160;
+}
+
+.table_image_spec
+{
+	width: 300;
+	vertical-align: middle;
+	padding: 0;
+	margin: 0;
+}
+
+.paper_heading
+{
+	font: normal 14pt; 
+	letter-spacing: 1px; 
+	margin: 0px; 
+	color: #3D373C;
+	font-weight:600;
+	padding: 0px;
+	margin: 0px;
+}
+
+.research_small_fonts
+{
+	font-size: 11pt;
+}
+
+.my_content_align
+{
+	vertical-align: middle;
+	text-align:justify;
+}
+
+.my_justify
+{
+	width: 801px;
+	text-align:justify;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.my_space
+{
+	height: 2px;
+}
+
+pre
+{
+	width: 801px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.move_rt
+{
+	padding-left: 5pt;
+}
+
+a:link {
+	font-weight: normal;
+	text-decoration: none;
+	color:  #9685BA;
+}
+
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #A4ADAC;
+}
+
+a:hover, a:active { 
+	text-decoration: underline; 
+	color: #9685BA;
+}
+
+.fix_size
+{
+	width: 801px;
+}
+
+/* modified from http://www.csszengarden.com/ */ 
+#linkList {
+	position: absolute; 
+	top: 0px; 
+	left: 851px;
+	font: 10px; 
+	background: transparent url(paper_bg.gif) top left repeat-y; 
+	padding: 10px;
+	margin-top: 70px;
+	margin-left: auto; 
+	width: 150px; 
+	}
+#linkList ul {
+	margin: 0px;
+	padding: 0px;
+	}
+#linkList li {
+	line-height: 2ex; 
+	letter-spacing: .5px;
+	background: transparent url(cr1.gif) no-repeat top center; 
+	display: block; 
+	padding-top: 5px; 
+	padding-left:0;
+	margin-bottom: 5px;
+	list-style-type: none;
+	font-size: 8pt;
+	}
+#linkList li a:link {
+	color: #988F5E;
+	}
+#linkList li a:visited {
+	color: #B3AE94;
+	}
+	
+#linkList h3.access_bar { 
+	margin: 2px 0px 15px 0px; 
+	padding: 0;
+	width: 150px; 
+	height: 10px; 
+	font-size:10pt;
+	color: 444543;
+}
+
+#main_page_table
+{
+	width: 801px;
+	letter-spacing: 1px;
+}
+
+.small_fonts
+{
+	font-size: 10pt;
+}
+
+.collaborators_fonts{
+	font-size: 11pt;
+}
+
+#main_page_table h1
+{
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	font-size: 18px;
+}
+
+#main_page_table h3
+{
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 13px;
+}
+
+.acd_end
+{
+	width= 90pt;
+	text-align: right;
+	vertical-align: top;
+}
+
+.acd_mid
+{
+	width= 30pt;
+	text-align: middle;
+	vertical-align: top;
+}
+
+.hobbies_left
+{
+	width= 250pt;
+}
+
+#no_bullet li
+{
+	list-style-type: none;
+}
