@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+EI_webpage.rar filter=lfs diff=lfs merge=lfs -text
+paper_docs/examples/james_walking.zip filter=lfs diff=lfs merge=lfs -text
